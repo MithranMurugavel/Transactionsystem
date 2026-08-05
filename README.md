@@ -1,4 +1,4 @@
-# Transaction Reconciliation System (Flask + SQLite + React)
+# Transaction Reconciliation System (Node + SQLite + React)
 
 End‑to‑end, ready‑to‑run solution for the take‑home exercise.
 
@@ -11,7 +11,6 @@ End‑to‑end, ready‑to‑run solution for the take‑home exercise.
 ```bash
 cd backend
 npm run dev
-
 ```
 
 ## 3) Frontend – Setup & Run
@@ -19,7 +18,6 @@ npm run dev
 cd frontend
 npm install
 npm run dev
-# UI at http://localhost:5173  (proxies /api/* to Flask)
 ```
 
 ## 4) How to Demo Quickly
